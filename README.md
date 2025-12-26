@@ -1,2 +1,5 @@
 # Graduate-Thesis---Education-and-Wage-Inequalities-Evidence-from-Pakistan-
 A combination of OLS and Quantile Regression techniques to predict differences in returns to education between Punjab and Sindh. 
+
+# Description
+This paper explores the relation between education and wage inequalities in Punjab and Sindh. Using the Labor Force Survey of 2017-2018, we make comparisons of returns to education, between both provinces, using the OLS regression technique. However, we observe that modeling on the averages misses out on key features of the income structure. Therefore, we use the Quantile regression technique to observe returns to education across various points in the income distribution. Using OLS regression, we find that an expansion towards tertiary education is bound to increase wages. However, the marginal increase in wages due to expansion towards higher education is lower for Sindh when compared to Punjab. Additionally, this paper uses the Quantile regression technique to find that there are significant differences in wages at different education levels across different income structures.
